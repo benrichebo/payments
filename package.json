@@ -1,5 +1,5 @@
 {
-  "name": "blog",
+  "name": "payments",
   "version": "1.0.0",
   "description": "A redesign of the bootstrap blog theme",
   "main": "index.js",
@@ -26,5 +26,14 @@
     "gulp-uglify": "^3.0.2",
     "gulp-htmlmin": "^5.0.1",
     "node-sass": "^4.14.0"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benrichebo/payments.git"
+  },
+  "bugs": {
+    "url": "https://github.com/benrichebo/payments/issues"
+  },
+  "homepage": "https://github.com/benrichebo/payments#readme"
 }
